@@ -1,0 +1,6 @@
+org\example\service\CloudVendorInterface.class
+org\example\controller\cloudVendorController.class
+org\example\repository\CloudVendorRepository.class
+org\example\service\impl\CloudVendorService.class
+org\example\model\CloudVendor.class
+org\example\RestApiDemo.class
